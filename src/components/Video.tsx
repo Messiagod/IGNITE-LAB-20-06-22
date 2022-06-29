@@ -63,7 +63,7 @@ export function Video(){
                         <div className="py-6 leading-relaxed">
                             <strong className="text-2xl">Walpapers Exclusivos</strong>
                             <p className="text-sm text-gray-200 mt-2">
-                                material Complementar texto
+                                MATERIAL COMPLEMENTAR TXT
                             </p>
                         </div>
                         <div className="h-full p-6 flex items-center">
